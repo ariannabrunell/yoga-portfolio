@@ -1,9 +1,10 @@
 import "./App.css";
+import YogaHome from "./YogaHome";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
+      <YogaHome />
     </div>
   );
 }
